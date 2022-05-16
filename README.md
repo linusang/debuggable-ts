@@ -13,9 +13,11 @@ Make sure you have [git](https://git-scm.com/) and [node](https://nodejs.org/) i
 
 ```
 npx degit https://github.com/linusang/debuggable-ts.git
+```
 
-// say yes if prompted
+3. Say yes if prompted
 
+```
 npm install
 ```
 
